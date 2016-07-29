@@ -3,3 +3,8 @@ D:\Code\C#\2016年7月29日\Test001\Test001\bin\Debug\Test001.pdb
 D:\Code\C#\2016年7月29日\Test001\Test001\obj\Debug\ResolveAssemblyReference.cache
 D:\Code\C#\2016年7月29日\Test001\Test001\obj\Debug\Test001.exe
 D:\Code\C#\2016年7月29日\Test001\Test001\obj\Debug\Test001.pdb
+D:\Code\github\.NETTest\2016年7月29日\Test001\Test001\obj\Debug\Test001.exe
+D:\Code\github\.NETTest\2016年7月29日\Test001\Test001\obj\Debug\Test001.pdb
+D:\Code\github\.NETTest\2016年7月29日\Test001\Test001\bin\Debug\Test001.exe
+D:\Code\github\.NETTest\2016年7月29日\Test001\Test001\bin\Debug\Test001.pdb
+D:\Code\github\.NETTest\2016年7月29日\Test001\Test001\obj\Debug\ResolveAssemblyReference.cache

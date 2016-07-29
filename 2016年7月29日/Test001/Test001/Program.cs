@@ -10,10 +10,38 @@ namespace Test001
     {
         static void Main(string[] args)
         {
-            Process[] pro = Process.GetProcesses();
-            foreach(var item in pro)
+            //Process[] pro = Process.GetProcesses();
+            //foreach (var item in pro)
+            //{
+            //    //item.Kill();
+            //    Console.WriteLine(item.ProcessName);
+            //}
+
+            //Process.Start("notepad");
+
+            //ProcessStartInfo封装要打开的文件，但是不打开这个文件
+            //ProcessStartInfo psi = new ProcessStartInfo(@"C:\Users\lang\Desktop\1.avi");
+            //Process pro = new Process();
+            //pro.StartInfo = psi;
+            //pro.Start();
+
+            //Console.WriteLine("Input the file path:");
+            //string filePath = Console.ReadLine();
+            //Console.WriteLine("Input the file name");
+            //string fileName = Console.ReadLine();
+            //ProcessStartInfo psi = new ProcessStartInfo(filePath + "\\" + fileName);
+            //Process pro = new Process();
+            //pro.StartInfo = psi;
+            //pro.Start();
+
+            Console.WriteLine("Input the file path:");
+            string filePath = Console.ReadLine();
+            Console.WriteLine("Input the file name");
+            string fileName = Console.ReadLine();
+            BaseFileClass bf = BaseFileClass.GetFile(filePath,fileName);
+            if (bf != null)
             {
-                Console.WriteLine(item.ProcessName);
+                bf.OpenFile();
             }
             Console.ReadKey();
         }
