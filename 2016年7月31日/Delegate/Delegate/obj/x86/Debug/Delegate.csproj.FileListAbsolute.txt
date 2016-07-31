@@ -1,0 +1,4 @@
+D:\Code\github\.NETTest\2016年7月31日\Delegate\Delegate\bin\Debug\Delegate.exe
+D:\Code\github\.NETTest\2016年7月31日\Delegate\Delegate\bin\Debug\Delegate.pdb
+D:\Code\github\.NETTest\2016年7月31日\Delegate\Delegate\obj\x86\Debug\Delegate.exe
+D:\Code\github\.NETTest\2016年7月31日\Delegate\Delegate\obj\x86\Debug\Delegate.pdb
