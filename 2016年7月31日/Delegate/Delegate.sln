@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{3A97E673-81BE-44A3-B1F7-22BF541B0952}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "范型委托", "范型委托\范型委托.csproj", "{AB16A02D-4123-4900-8026-74A9BFDDE089}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "多播委托", "多播委托\多播委托.csproj", "{5CA3C00D-A51A-4E7C-96F6-91FB44C2FB95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "事件", "事件\事件.csproj", "{7E229C14-6216-47FE-81CC-873D1E4321DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +19,18 @@ Global
 		{3A97E673-81BE-44A3-B1F7-22BF541B0952}.Debug|x86.Build.0 = Debug|x86
 		{3A97E673-81BE-44A3-B1F7-22BF541B0952}.Release|x86.ActiveCfg = Release|x86
 		{3A97E673-81BE-44A3-B1F7-22BF541B0952}.Release|x86.Build.0 = Release|x86
+		{AB16A02D-4123-4900-8026-74A9BFDDE089}.Debug|x86.ActiveCfg = Debug|x86
+		{AB16A02D-4123-4900-8026-74A9BFDDE089}.Debug|x86.Build.0 = Debug|x86
+		{AB16A02D-4123-4900-8026-74A9BFDDE089}.Release|x86.ActiveCfg = Release|x86
+		{AB16A02D-4123-4900-8026-74A9BFDDE089}.Release|x86.Build.0 = Release|x86
+		{5CA3C00D-A51A-4E7C-96F6-91FB44C2FB95}.Debug|x86.ActiveCfg = Debug|x86
+		{5CA3C00D-A51A-4E7C-96F6-91FB44C2FB95}.Debug|x86.Build.0 = Debug|x86
+		{5CA3C00D-A51A-4E7C-96F6-91FB44C2FB95}.Release|x86.ActiveCfg = Release|x86
+		{5CA3C00D-A51A-4E7C-96F6-91FB44C2FB95}.Release|x86.Build.0 = Release|x86
+		{7E229C14-6216-47FE-81CC-873D1E4321DC}.Debug|x86.ActiveCfg = Debug|x86
+		{7E229C14-6216-47FE-81CC-873D1E4321DC}.Debug|x86.Build.0 = Debug|x86
+		{7E229C14-6216-47FE-81CC-873D1E4321DC}.Release|x86.ActiveCfg = Release|x86
+		{7E229C14-6216-47FE-81CC-873D1E4321DC}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

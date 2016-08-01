@@ -67,6 +67,9 @@ namespace Delegate
             //Del1 del1 = delegate(string arg){return 10};
             //Del1 del1 = (arg) => { return 10; };
 
+            //object[] pers = { new Person() { Name = "张三", Age = 18 }, new Person() { Age = 22, Name = "李四" } };
+
+
             Console.ReadKey();
         }
 
@@ -98,9 +101,15 @@ namespace Delegate
         //    }
         //}
 
-        static int Test1(string name)
+        //static int Test1(string name)
+        //{
+        //    return 10;
+        //}
+
+        public class Person
         {
-            return 10;
+            public int Age { get; set; }
+            public string Name { get; set; }
         }
     }
 }

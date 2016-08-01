@@ -1,0 +1,7 @@
+D:\Code\github\.NETTest\2016年7月31日\Delegate\事件\bin\Debug\事件.exe
+D:\Code\github\.NETTest\2016年7月31日\Delegate\事件\bin\Debug\事件.pdb
+D:\Code\github\.NETTest\2016年7月31日\Delegate\事件\obj\x86\Debug\事件.Form1.resources
+D:\Code\github\.NETTest\2016年7月31日\Delegate\事件\obj\x86\Debug\事件.Properties.Resources.resources
+D:\Code\github\.NETTest\2016年7月31日\Delegate\事件\obj\x86\Debug\事件.csproj.GenerateResource.Cache
+D:\Code\github\.NETTest\2016年7月31日\Delegate\事件\obj\x86\Debug\事件.exe
+D:\Code\github\.NETTest\2016年7月31日\Delegate\事件\obj\x86\Debug\事件.pdb

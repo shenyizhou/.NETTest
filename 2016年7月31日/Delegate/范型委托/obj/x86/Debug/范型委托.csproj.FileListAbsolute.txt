@@ -1,0 +1,4 @@
+D:\Code\github\.NETTest\2016年7月31日\Delegate\范型委托\bin\Debug\范型委托.exe
+D:\Code\github\.NETTest\2016年7月31日\Delegate\范型委托\bin\Debug\范型委托.pdb
+D:\Code\github\.NETTest\2016年7月31日\Delegate\范型委托\obj\x86\Debug\范型委托.exe
+D:\Code\github\.NETTest\2016年7月31日\Delegate\范型委托\obj\x86\Debug\范型委托.pdb

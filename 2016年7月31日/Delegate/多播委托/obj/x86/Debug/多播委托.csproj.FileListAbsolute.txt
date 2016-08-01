@@ -1,0 +1,4 @@
+D:\Code\github\.NETTest\2016年7月31日\Delegate\多播委托\bin\Debug\多播委托.exe
+D:\Code\github\.NETTest\2016年7月31日\Delegate\多播委托\bin\Debug\多播委托.pdb
+D:\Code\github\.NETTest\2016年7月31日\Delegate\多播委托\obj\x86\Debug\多播委托.exe
+D:\Code\github\.NETTest\2016年7月31日\Delegate\多播委托\obj\x86\Debug\多播委托.pdb
