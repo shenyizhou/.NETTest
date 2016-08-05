@@ -1,0 +1,4 @@
+D:\Code\github\.NETTest\2016年8月4日\WCF\Server\bin\Debug\Server.dll
+D:\Code\github\.NETTest\2016年8月4日\WCF\Server\bin\Debug\Server.pdb
+D:\Code\github\.NETTest\2016年8月4日\WCF\Server\obj\Debug\Server.dll
+D:\Code\github\.NETTest\2016年8月4日\WCF\Server\obj\Debug\Server.pdb

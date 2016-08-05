@@ -1,0 +1,11 @@
+D:\Code\github\.NETTest\2016年8月4日\WCF\Hosting\obj\x86\Debug\Hosting.csprojResolveAssemblyReference.cache
+D:\Code\github\.NETTest\2016年8月4日\WCF\Hosting\bin\Debug\Hosting.exe
+D:\Code\github\.NETTest\2016年8月4日\WCF\Hosting\bin\Debug\Hosting.pdb
+D:\Code\github\.NETTest\2016年8月4日\WCF\Hosting\bin\Debug\Client.dll
+D:\Code\github\.NETTest\2016年8月4日\WCF\Hosting\bin\Debug\Server.dll
+D:\Code\github\.NETTest\2016年8月4日\WCF\Hosting\bin\Debug\Client.pdb
+D:\Code\github\.NETTest\2016年8月4日\WCF\Hosting\bin\Debug\Server.pdb
+D:\Code\github\.NETTest\2016年8月4日\WCF\Hosting\obj\x86\Debug\Hosting.exe
+D:\Code\github\.NETTest\2016年8月4日\WCF\Hosting\obj\x86\Debug\Hosting.pdb
+D:\Code\github\.NETTest\2016年8月4日\WCF\Hosting\bin\Debug\App.config
+D:\Code\github\.NETTest\2016年8月4日\WCF\Hosting\bin\Debug\Hosting.exe.config
