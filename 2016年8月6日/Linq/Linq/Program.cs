@@ -34,6 +34,8 @@ namespace Linq
                 }
             }
 
+            Console.WriteLine("test");
+
             Console.ReadKey();
         }
     }
